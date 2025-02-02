@@ -5,5 +5,5 @@ Proyek ini adalah sebuah library JavaScript untuk mengambil warna dominan dari s
 
 
 ## Tampilan
-![Contoh Gambar](test.img)
+![Contoh Gambar](test.png)
 
